@@ -1,0 +1,6 @@
+mouse
+numpy
+opencv-python
+pynput
+requests
+rich
